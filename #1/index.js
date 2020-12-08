@@ -27,6 +27,8 @@ function guess(number1, number2) {
             }
         }
     }
-}
+} 
+
+
 guess(number1, prompt("Введи число:"));
 alert(message1+message2);
